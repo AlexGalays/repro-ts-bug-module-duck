@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "moduleResolution": "node",
+    "module": "es6",
+    "lib": ["es6", "dom"],
+    "strict": true
+  },
+  "files": [
+		"index.ts"
+	]
+}
